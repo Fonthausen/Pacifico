@@ -1,5 +1,8 @@
 {
 .appVersion = "908";
+DisplayStrings = (
+Hplb
+);
 copyright = "Copyright © 2016 by Vernon Adams. All rights reserved.";
 customParameters = (
 {
@@ -74,13 +77,13 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{591, 15}",
-"{560, 15}",
-"{326, 15}",
+"{655, 15}",
+"{590, 15}",
+"{325, 15}",
 "{0, -15}",
-"{-140, -15}"
+"{-170, -15}"
 );
-ascender = 560;
+ascender = 655;
 capHeight = 590;
 customParameters = (
 {
@@ -92,7 +95,7 @@ name = underlinePosition;
 value = -35;
 }
 );
-descender = -140;
+descender = -170;
 id = "661C2B86-736D-4514-95EC-07E90A3E9BAC";
 xHeight = 325;
 }
@@ -8819,7 +8822,7 @@ width = 184;
 },
 {
 glyphname = p;
-lastChange = "2016-07-11 09:12:57 +0000";
+lastChange = "2016-07-11 10:44:09 +0000";
 layers = (
 {
 layerId = "661C2B86-736D-4514-95EC-07E90A3E9BAC";
@@ -8827,6 +8830,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"309 161 OFFCURVE",
+"248 111 OFFCURVE",
 "162 83 CURVE",
 "170 65 OFFCURVE",
 "184 62 OFFCURVE",
@@ -8869,23 +8874,21 @@ nodes = (
 "208 328 CURVE SMOOTH",
 "275 328 OFFCURVE",
 "309 295 OFFCURVE",
-"309 237 CURVE SMOOTH",
-"309 161 OFFCURVE",
-"248 111 OFFCURVE"
+"309 237 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
+"123 265 OFFCURVE",
+"110 167 OFFCURVE",
 "105 112 CURVE",
 "166 132 OFFCURVE",
 "242 173 OFFCURVE",
 "242 231 CURVE SMOOTH",
 "242 250 OFFCURVE",
 "229 265 OFFCURVE",
-"200 265 CURVE SMOOTH",
-"123 265 OFFCURVE",
-"110 167 OFFCURVE"
+"200 265 CURVE SMOOTH"
 );
 }
 );
