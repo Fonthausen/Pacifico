@@ -1,5 +1,8 @@
 {
-.appVersion = "905";
+.appVersion = "909";
+DisplayStrings = (
+"change abechan hefende"
+);
 customParameters = (
 {
 name = glyphOrder;
