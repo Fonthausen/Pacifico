@@ -1,8 +1,5 @@
 {
-.appVersion = "909";
-DisplayStrings = (
-F
-);
+.appVersion = "911";
 date = "2014-04-12 05:53:22 +0000";
 familyName = Pacifico;
 fontMaster = (
@@ -11607,7 +11604,7 @@ unicode = 2074;
 },
 {
 glyphname = fraction;
-lastChange = "2016-07-25 08:03:28 +0000";
+lastChange = "2016-08-01 08:03:19 +0000";
 layers = (
 {
 layerId = "1677BB6F-42BC-4502-A615-23038A63E498";
@@ -11615,14 +11612,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"93 -29 CURVE SMOOTH",
-"349 575 LINE",
+"349 575 LINE SMOOTH",
 "368 619 OFFCURVE",
 "300 661 OFFCURVE",
 "274 601 CURVE SMOOTH",
-"18 15 LINE",
+"18 15 LINE SMOOTH",
 "-4 -35 OFFCURVE",
-"76 -74 OFFCURVE"
+"74 -73 OFFCURVE",
+"93 -29 CURVE SMOOTH"
 );
 }
 );

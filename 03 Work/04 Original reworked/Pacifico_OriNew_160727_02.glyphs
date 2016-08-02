@@ -1,7 +1,7 @@
 {
 .appVersion = "911";
 DisplayStrings = (
-"O/I.ss01 O/I.ss01/I.ss01/H.ss01/I.ss01/I.ss01/I.ss01"
+"Amepa \U00C6mepa Bmepa Cmepa Dmepa \U00D0mepa Emepa Fmepa Gmepa Hmepa Imepa Jmepa Kmepa Lmepa /Lslash mepa Mmepa Nmepa Omepa \U00D8mepa /OE mepa Pmepa \U00DEmepa Qmepa Rmepa Smepa /Germandbls mepa mepTmepa Umepa Vmepa Wmepa Ymepa Zmepa \012O/A.ss01 O/AE.ss01 O/B.ss01 O/C.ss01 O/D.ss01 O/E.ss01 O/F.ss01 O/G.ss01 O/H.ss01 O/I.ss01 O/J.ss01 O/K.ss01 O/L.ss01 O/M.ss01 O/N.ss01 O/OE.ss01 O/P.ss01 O/Thorn.ss01 O/Q.ss01 O/R.ss01 O/T.ss01 O/U.ss01 O/V.ss01 O/W.ss01 O/Y.ss01 O/Z.ss01 O\012aa\U00E6aabaacaadaa\U00F0aa/dcroat aaeaafaagaahaaiaa/idotless aajaa/jdotless aakaalaa/lslash aamaanaa/eng aaoaa\U00F8aa/oe aapaa\U00FEaaqaaraasaa\U00DFaa/schwa aataauaavaawaaxaayaazaa\012aa/eth.fina  aa/o.fina  aa/p.fina  aa/q.fina  aa/r.fina  aa/s.fina  aa/schwa.fina  aa/v.fina  aa/w.fina  \012aa/b.ss01 aa/d.ss01 aa/f.ss01 aa/l.ss01 aa/lslash.ss01 aa/eng.ss01 aa/o.ss01 aa/p.ss01 aa/s.ss01 aa/t.ss01 aa/z.ss01 aa/t_t aa/t_t.ss01 aa\012alenAalen\U00C6alenBalenCalenDalen\U00D0alenEalenFalenGalenHalenIalenJalenKalenLalen/Lslash alenMalenNalenOalen\U00D8alen/OE alenPalen\U00DEalenQalenRalenSalen/Germandbls alenTalenUalenValenWalenYalenZalen"
 );
 copyright = "Copyright (c) 2011 by Vernon Adams. All rights reserved.";
 customParameters = (
@@ -4249,7 +4249,7 @@ unicode = 0152;
 {
 color = 3;
 glyphname = P;
-lastChange = "2016-07-27 20:23:27 +0000";
+lastChange = "2016-07-28 07:55:28 +0000";
 layers = (
 {
 background = {
@@ -4377,7 +4377,7 @@ nodes = (
 );
 }
 );
-width = 806;
+width = 807;
 }
 );
 note = P;
@@ -5273,7 +5273,7 @@ unicode = 1E9E;
 {
 color = 3;
 glyphname = T;
-lastChange = "2016-07-27 21:17:37 +0000";
+lastChange = "2016-07-28 07:51:19 +0000";
 layers = (
 {
 background = {
@@ -5513,7 +5513,7 @@ nodes = (
 );
 }
 );
-width = 668;
+width = 669;
 }
 );
 note = T;
@@ -33997,6 +33997,9 @@ kerning = {
 A = {
 B = 20;
 };
+AE = {
+t = 40;
+};
 B = {
 a = -40;
 n = -20;
@@ -34013,6 +34016,9 @@ n = 10;
 I = {
 I = 70;
 };
+P = {
+n = -60;
+};
 Q = {
 u = -10;
 };
@@ -34027,18 +34033,12 @@ z = 70;
 };
 r = {
 s = 80;
-z = 80;
 t = 0;
+z = 80;
 };
 r.fina = {
 s = 40;
 t = 100;
-};
-AE = {
-t = 40;
-};
-P = {
-n = -60;
 };
 };
 };
