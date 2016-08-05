@@ -1,7 +1,6 @@
 {
 .appVersion = "911";
 DisplayStrings = (
-"/quotedblleft A/quotedblleft \U00C1/quotedblleft/Abreve/quotedblleft/Abreveacute/quotedblleft/Abrevedotbelow/quotedblleft/Abrevegrave/quotedblleft/Abrevehookabove/quotedblleft/Abrevetilde/quotedblleft \U00C2/quotedblleft/Acircumflexacute/quotedblleft/Acircumflexdotbelow/quotedblleft/Acircumflexgrave/quotedblleft/Acircumflexhookabove/quotedblleft/Acircumflextilde/quotedblleft/Adblgrave/quotedblleft \U00C4/quotedblleft/Adotbelow/quotedblleft \U00C0/quotedblleft/Ahookabove/quotedblleft/Ainvertedbreve/quotedblleft/Amacron/quotedblleft/Aogonek/quotedblleft \U00C5/quotedblleft/Aringacute/quotedblleft \U00C3/quotedblleft \U00C6/quotedblleft/AEacute/quotedblleft B/quotedblleft C/quotedblleft/Cacute/quotedblleft/Ccaron/quotedblleft \U00C7/quotedblleft/Ccircumflex/quotedblleft/Cdotaccent/quotedblleft D/quotedblleft/DZcaron/quotedblleft \U00D0/quotedblleft/Dcaron/quotedblleft/Dcroat/quotedblleft/Dzcaron/quotedblleft E/quotedblleft \U00C9/quotedblleft/Ebreve/quotedblleft/Ecaron/quotedblleft \U00CA/quotedblleft/Ecircumflexacute/quotedblleft/Ecircumflexdotbelow/quotedblleft/Ecircumflexgrave/quotedblleft/Ecircumflexhookabove/quotedblleft/Ecircumflextilde/quotedblleft/Edblgrave/quotedblleft \U00CB/quotedblleft/Edotaccent/quotedblleft/Edotbelow/quotedblleft \U00C8/quotedblleft/Ehookabove/quotedblleft/Einvertedbreve/quotedblleft/Emacron/quotedblleft/Eogonek/quotedblleft/Etilde/quotedblleft F/quotedblleft G/quotedblleft/Gbreve/quotedblleft/Gcaron/quotedblleft/Gcircumflex/quotedblleft/Gcommaaccent/quotedblleft/Gdotaccent/quotedblleft H/quotedblleft/Hbar/quotedblleft/Hcircumflex/quotedblleft I/quotedblleft/I_J.loclNLD/quotedblleft \U00CD/quotedblleft/Ibreve/quotedblleft \U00CE/quotedblleft/Idblgrave/quotedblleft \U00CF/quotedblleft/Idotaccent/quotedblleft/Idotbelow/quotedblleft \U00CC/quotedblleft/Ihookabove/quotedblleft/Iinvertedbreve/quotedblleft/Imacron/quotedblleft/Iogonek/quotedblleft/Itilde/quotedblleft J/quotedblleft/Jcircumflex/quotedblleft K/quotedblleft/Kcommaaccent/quotedblleft L/quotedblleft/LJ/quotedblleft/Lacute/quotedblleft/Lcaron/quotedblleft/Lcommaaccent/quotedblleft/Ldot/quotedblleft/Lj/quotedblleft/Lslash/quotedblleft M/quotedblleft N/quotedblleft/NJ/quotedblleft/Nacute/quotedblleft/Ncaron/quotedblleft/Ncommaaccent/quotedblleft/Eng/quotedblleft/Nj/quotedblleft \U00D1/quotedblleft O/quotedblleft \U00D3/quotedblleft/Obreve/quotedblleft \U00D4/quotedblleft/Ocircumflexacute/quotedblleft/Ocircumflexdotbelow/quotedblleft/Ocircumflexgrave/quotedblleft/Ocircumflexhookabove/quotedblleft/Ocircumflextilde/quotedblleft/Odblgrave/quotedblleft \U00D6/quotedblleft/Odieresismacron/quotedblleft/Odotaccentmacron/quotedblleft/Odotbelow/quotedblleft \U00D2/quotedblleft/Ohookabove/quotedblleft/Ohorn/quotedblleft/Ohornacute/quotedblleft/Ohorndotbelow/quotedblleft/Ohorngrave/quotedblleft/Ohornhookabove/quotedblleft/Ohorntilde/quotedblleft/Ohungarumlaut/quotedblleft/Oinvertedbreve/quotedblleft/Omacron/quotedblleft/Oogonek/quotedblleft \U00D8/quotedblleft/Oslashacute/quotedblleft \U00D5/quotedblleft/Otildemacron/quotedblleft/OE/quotedblleft P/quotedblleft \U00DE/quotedblleft Q/quotedblleft R/quotedblleft/Racute/quotedblleft/Rcaron/quotedblleft/Rcommaaccent/quotedblleft/Rdblgrave/quotedblleft/Rinvertedbreve/quotedblleft S/quotedblleft/Sacute/quotedblleft/Scaron/quotedblleft/Scedilla/quotedblleft/Scircumflex/quotedblleft/Scommaaccent/quotedblleft/Germandbls/quotedblleft/Schwa/quotedblleft T/quotedblleft/Tbar/quotedblleft/Tcaron/quotedblleft/Tcedilla/quotedblleft/Tcommaaccent/quotedblleft U/quotedblleft \U00DA/quotedblleft/Ubreve/quotedblleft \U00DB/quotedblleft/Udblgrave/quotedblleft \U00DC/quotedblleft/Udotbelow/quotedblleft \U00D9/quotedblleft/Uhorn/quotedblleft/Uhornacute/quotedblleft/Uhorndotbelow/quotedblleft/Uhorngrave/quotedblleft/Uhornhookabove/quotedblleft/Uhorntilde/quotedblleft/Uhungarumlaut/quotedblleft/Uinvertedbreve/quotedblleft/Umacron/quotedblleft/Uogonek/quotedblleft/Uring/quotedblleft/Utilde/quotedblleft V/quotedblleft W/quotedblleft/Wacute/quotedblleft/Wcircumflex/quotedblleft/Wdieresis/quotedblleft/Wgrave/quotedblleft X/quotedblleft Y/quotedblleft \U00DD/quotedblleft/Ycircumflex/quotedblleft/Ydieresis/quotedblleft/Ydotbelow/quotedblleft/Ygrave/quotedblleft/Yhookabove/quotedblleft/Ymacron/quotedblleft/Ytilde/quotedblleft Z/quotedblleft/Zacute/quotedblleft/Zcaron/quotedblleft/Zdotaccent/quotedblleft/A.ss01/quotedblleft/Aacute.ss01/quotedblleft/Abreve.ss01/quotedblleft/Abreveacute.ss01/quotedblleft/Abrevedotbelow.ss01/quotedblleft/Abrevegrave.ss01/quotedblleft/Abrevehookabove.ss01/quotedblleft/Abrevetilde.ss01/quotedblleft/Acircumflex.ss01/quotedblleft/Acircumflexacute.ss01/quotedblleft/Acircumflexdotbelow.ss01/quotedblleft/Acircumflexgrave.ss01/quotedblleft/Acircumflexhookabove.ss01/quotedblleft/Acircumflextilde.ss01/quotedblleft/Adblgrave.ss01/quotedblleft/Adieresis.ss01/quotedblleft/Adotbelow.ss01/quotedblleft/Agrave.ss01/quotedblleft/Ahookabove.ss01/quotedblleft/Ainvertedbreve.ss01/quotedblleft/Amacron.ss01/quotedblleft/Aogonek.ss01/quotedblleft/Aring.ss01/quotedblleft/Aringacute.ss01/quotedblleft/Atilde.ss01/quotedblleft/AE.ss01/quotedblleft/AEacute.ss01/quotedblleft/B.ss01/quotedblleft/C.ss01/quotedblleft/Cacute.ss01/quotedblleft/Ccaron.ss01/quotedblleft/Ccedilla.ss01/quotedblleft/Ccircumflex.ss01/quotedblleft/Cdotaccent.ss01/quotedblleft/D.ss01/quotedblleft/DZcaron.ss01/quotedblleft/Eth.ss01/quotedblleft/Dcaron.ss01/quotedblleft/Dcroat.ss01/quotedblleft/E.ss01/quotedblleft/Eacute.ss01/quotedblleft/Ebreve.ss01/quotedblleft/Ecaron.ss01/quotedblleft/Ecircumflex.ss01/quotedblleft/Ecircumflexacute.ss01/quotedblleft/Ecircumflexdotbelow.ss01/quotedblleft/Ecircumflexgrave.ss01/quotedblleft/Ecircumflexhookabove.ss01/quotedblleft/Ecircumflextilde.ss01/quotedblleft/Edblgrave.ss01/quotedblleft/Edieresis.ss01/quotedblleft/Edotaccent.ss01/quotedblleft/Edotbelow.ss01/quotedblleft/Egrave.ss01/quotedblleft/Ehookabove.ss01/quotedblleft/Einvertedbreve.ss01/quotedblleft/Emacron.ss01/quotedblleft/Eogonek.ss01/quotedblleft/Etilde.ss01/quotedblleft/F.ss01/quotedblleft/G.ss01/quotedblleft/Gbreve.ss01/quotedblleft/Gcaron.ss01/quotedblleft/Gcircumflex.ss01/quotedblleft/Gcommaaccent.ss01/quotedblleft/Gdotaccent.ss01/quotedblleft/H.ss01/quotedblleft/Hbar.ss01/quotedblleft/Hcircumflex.ss01/quotedblleft/I.ss01/quotedblleft/Iacute.ss01/quotedblleft/Ibreve.ss01/quotedblleft/Icircumflex.ss01/quotedblleft/Idblgrave.ss01/quotedblleft/Idieresis.ss01/quotedblleft/Idotaccent.ss01/quotedblleft/Idotbelow.ss01/quotedblleft/Igrave.ss01/quotedblleft/Ihookabove.ss01/quotedblleft/Iinvertedbreve.ss01/quotedblleft/Imacron.ss01/quotedblleft/Iogonek.ss01/quotedblleft/Itilde.ss01/quotedblleft/J.ss01/quotedblleft/Jcircumflex.ss01/quotedblleft/K.ss01/quotedblleft/Kcommaaccent.ss01/quotedblleft/L.ss01/quotedblleft/LJ.ss01/quotedblleft/Lacute.ss01/quotedblleft/Lcaron.ss01/quotedblleft/Lcommaaccent.ss01/quotedblleft/Ldot.ss01/quotedblleft/Lj.ss01/quotedblleft/Lslash.ss01/quotedblleft/M.ss01/quotedblleft/N.ss01/quotedblleft/NJ.ss01/quotedblleft/Nacute.ss01/quotedblleft/Ncaron.ss01/quotedblleft/Ncommaaccent.ss01/quotedblleft/Eng.ss01/quotedblleft/Nj.ss01/quotedblleft/Ntilde.ss01/quotedblleft/OE.ss01/quotedblleft/P.ss01/quotedblleft/Thorn.ss01/quotedblleft/Q.ss01/quotedblleft/R.ss01/quotedblleft/Racute.ss01/quotedblleft/Rcaron.ss01/quotedblleft/Rcommaaccent.ss01/quotedblleft/Rdblgrave.ss01/quotedblleft/Rinvertedbreve.ss01/quotedblleft/T.ss01/quotedblleft/Tbar.ss01/quotedblleft/Tcaron.ss01/quotedblleft/Tcedilla.ss01/quotedblleft/Tcommaaccent.ss01/quotedblleft/U.ss01/quotedblleft/Uacute.ss01/quotedblleft/Ubreve.ss01/quotedblleft/Ucircumflex.ss01/quotedblleft/Udblgrave.ss01/quotedblleft/Udieresis.ss01/quotedblleft/Udotbelow.ss01/quotedblleft/Ugrave.ss01/quotedblleft/Uhorn.ss01/quotedblleft/Uhornacute.ss01/quotedblleft/Uhorndotbelow.ss01/quotedblleft/Uhorngrave.ss01/quotedblleft/Uhornhookabove.ss01/quotedblleft/Uhorntilde.ss01/quotedblleft/Uhungarumlaut.ss01/quotedblleft/Uinvertedbreve.ss01/quotedblleft/Umacron.ss01/quotedblleft/Uogonek.ss01/quotedblleft/Uring.ss01/quotedblleft/Utilde.ss01/quotedblleft/V.ss01/quotedblleft/W.ss01/quotedblleft/Wacute.ss01/quotedblleft/Wcircumflex.ss01/quotedblleft/Wdieresis.ss01/quotedblleft/Wgrave.ss01/quotedblleft/X.ss01/quotedblleft/Y.ss01/quotedblleft/Yacute.ss01/quotedblleft/Ycircumflex.ss01/quotedblleft/Ydieresis.ss01/quotedblleft/Ydotbelow.ss01/quotedblleft/Ygrave.ss01/quotedblleft/Yhookabove.ss01/quotedblleft/Ymacron.ss01/quotedblleft/Ytilde.ss01/quotedblleft/Z.ss01/quotedblleft/Zacute.ss01/quotedblleft/Zcaron.ss01/quotedblleft/Zdotaccent.ss01/quotedblleft a/quotedblleft \U00E1/quotedblleft/abreve/quotedblleft/abreveacute/quotedblleft/abrevedotbelow/quotedblleft/abrevegrave/quotedblleft/abrevehookabove/quotedblleft/abrevetilde/quotedblleft \U00E2/quotedblleft/acircumflexacute/quotedblleft/acircumflexdotbelow/quotedblleft/acircumflexgrave/quotedblleft/acircumflexhookabove/quotedblleft/acircumflextilde/quotedblleft/adblgrave/quotedblleft \U00E4/quotedblleft/adotbelow/quotedblleft \U00E0/quotedblleft/ahookabove/quotedblleft/ainvertedbreve/quotedblleft/amacron/quotedblleft/aogonek/quotedblleft \U00E5/quotedblleft/aringacute/quotedblleft \U00E3/quotedblleft \U00E6/quotedblleft/aeacute/quotedblleft b/quotedblleft c/quotedblleft/cacute/quotedblleft/ccaron/quotedblleft \U00E7/quotedblleft/ccircumflex/quotedblleft/cdotaccent/quotedblleft d/quotedblleft \U00F0/quotedblleft/dcaron/quotedblleft/dcroat/quotedblleft/dzcaron/quotedblleft e/quotedblleft \U00E9/quotedblleft/ebreve/quotedblleft/ecaron/quotedblleft \U00EA/quotedblleft/ecircumflexacute/quotedblleft/ecircumflexdotbelow/quotedblleft/ecircumflexgrave/quotedblleft/ecircumflexhookabove/quotedblleft/ecircumflextilde/quotedblleft/edblgrave/quotedblleft \U00EB/quotedblleft/edotaccent/quotedblleft/edotbelow/quotedblleft \U00E8/quotedblleft/ehookabove/quotedblleft/einvertedbreve/quotedblleft/emacron/quotedblleft/eogonek/quotedblleft/etilde/quotedblleft f/quotedblleft g/quotedblleft/gbreve/quotedblleft/gcaron/quotedblleft/gcircumflex/quotedblleft/gcommaaccent/quotedblleft/gdotaccent/quotedblleft h/quotedblleft/hbar/quotedblleft/hcircumflex/quotedblleft i/quotedblleft/idotless/quotedblleft \U00ED/quotedblleft/ibreve/quotedblleft \U00EE/quotedblleft/idblgrave/quotedblleft \U00EF/quotedblleft/idotaccent/quotedblleft/idotbelow/quotedblleft \U00EC/quotedblleft/ihookabove/quotedblleft/iinvertedbreve/quotedblleft/i_j.loclNLD/quotedblleft/imacron/quotedblleft/iogonek/quotedblleft/itilde/quotedblleft j/quotedblleft/jdotless/quotedblleft/jcircumflex/quotedblleft k/quotedblleft/kcommaaccent/quotedblleft/kgreenlandic/quotedblleft l/quotedblleft/lacute/quotedblleft/lcaron/quotedblleft/lcommaaccent/quotedblleft/ldot/quotedblleft/lj/quotedblleft/lslash/quotedblleft m/quotedblleft n/quotedblleft/nacute/quotedblleft/napostrophe/quotedblleft/ncaron/quotedblleft/ncommaaccent/quotedblleft/eng/quotedblleft/nj/quotedblleft \U00F1/quotedblleft o/quotedblleft \U00F3/quotedblleft/obreve/quotedblleft \U00F4/quotedblleft/ocircumflexacute/quotedblleft/ocircumflexdotbelow/quotedblleft/ocircumflexgrave/quotedblleft/ocircumflexhookabove/quotedblleft/ocircumflextilde/quotedblleft/odblgrave/quotedblleft \U00F6/quotedblleft/odieresismacron/quotedblleft/odotaccentmacron/quotedblleft/odotbelow/quotedblleft \U00F2/quotedblleft/ohookabove/quotedblleft/ohorn/quotedblleft/ohornacute/quotedblleft/ohorndotbelow/quotedblleft/ohorngrave/quotedblleft/ohornhookabove/quotedblleft/ohorntilde/quotedblleft/ohungarumlaut/quotedblleft/oinvertedbreve/quotedblleft/omacron/quotedblleft/oogonek/quotedblleft \U00F8/quotedblleft/oslashacute/quotedblleft \U00F5/quotedblleft/otildemacron/quotedblleft/oe/quotedblleft p/quotedblleft \U00FE/quotedblleft q/quotedblleft r/quotedblleft/racute/quotedblleft/rcaron/quotedblleft/rcommaaccent/quotedblleft/rdblgrave/quotedblleft/rinvertedbreve/quotedblleft s/quotedblleft/sacute/quotedblleft/scaron/quotedblleft/scedilla/quotedblleft/scircumflex/quotedblleft/scommaaccent/quotedblleft \U00DF/quotedblleft/schwa/quotedblleft t/quotedblleft/tbar/quotedblleft/tcaron/quotedblleft/tcedilla/quotedblleft/tcommaaccent/quotedblleft u/quotedblleft \U00FA/quotedblleft/ubreve/quotedblleft \U00FB/quotedblleft/udblgrave/quotedblleft \U00FC/quotedblleft/udotbelow/quotedblleft \U00F9/quotedblleft/uhorn/quotedblleft/uhornacute/quotedblleft/uhorndotbelow/quotedblleft/uhorngrave/quotedblleft/uhornhookabove/quotedblleft/uhorntilde/quotedblleft/uhungarumlaut/quotedblleft/uinvertedbreve/quotedblleft/umacron/quotedblleft/uogonek/quotedblleft/uring/quotedblleft/utilde/quotedblleft v/quotedblleft w/quotedblleft/wacute/quotedblleft/wcircumflex/quotedblleft/wdieresis/quotedblleft/wgrave/quotedblleft x/quotedblleft y/quotedblleft \U00FD/quotedblleft/ycircumflex/quotedblleft/ydieresis/quotedblleft/ydotbelow/quotedblleft/ygrave/quotedblleft/yhookabove/quotedblleft/ymacron/quotedblleft/ytilde/quotedblleft z/quotedblleft/zacute/quotedblleft/zcaron/quotedblleft/zdotaccent/quotedblleft/a.fina/quotedblleft/aacute.fina/quotedblleft/abreve.fina/quotedblleft/abreveacute.fina/quotedblleft/abrevedotbelow.fina/quotedblleft/abrevegrave.fina/quotedblleft/abrevehookabove.fina/quotedblleft/abrevetilde.fina/quotedblleft/acircumflex.fina/quotedblleft/acircumflexacute.fina/quotedblleft/acircumflexdotbelow.fina/quotedblleft/acircumflexgrave.fina/quotedblleft/acircumflexhookabove.fina/quotedblleft/acircumflextilde.fina/quotedblleft/adblgrave.fina/quotedblleft/adieresis.fina/quotedblleft/adotbelow.fina/quotedblleft/agrave.fina/quotedblleft/ahookabove.fina/quotedblleft/ainvertedbreve.fina/quotedblleft/amacron.fina/quotedblleft/aogonek.fina/quotedblleft/aring.fina/quotedblleft/aringacute.fina/quotedblleft/atilde.fina/quotedblleft/ae.fina/quotedblleft/aeacute.fina/quotedblleft/b.fina/quotedblleft/c.fina/quotedblleft/cacute.fina/quotedblleft/ccaron.fina/quotedblleft/ccedilla.fina/quotedblleft/ccircumflex.fina/quotedblleft/cdotaccent.fina/quotedblleft/d.fina/quotedblleft/dcaron.fina/quotedblleft/dcroat.fina/quotedblleft/dzcaron.fina/quotedblleft/e.fina/quotedblleft/eacute.fina/quotedblleft/ebreve.fina/quotedblleft/ecaron.fina/quotedblleft/ecircumflex.fina/quotedblleft/ecircumflexacute.fina/quotedblleft/ecircumflexdotbelow.fina/quotedblleft/ecircumflexgrave.fina/quotedblleft/ecircumflexhookabove.fina/quotedblleft/ecircumflextilde.fina/quotedblleft/edblgrave.fina/quotedblleft/edieresis.fina/quotedblleft/edotaccent.fina/quotedblleft/edotbelow.fina/quotedblleft/egrave.fina/quotedblleft/ehookabove.fina/quotedblleft/einvertedbreve.fina/quotedblleft/emacron.fina/quotedblleft/eogonek.fina/quotedblleft/etilde.fina/quotedblleft/g.fina/quotedblleft/gbreve.fina/quotedblleft/gcaron.fina/quotedblleft/gcircumflex.fina/quotedblleft/gcommaaccent.fina/quotedblleft/gdotaccent.fina/quotedblleft/h.fina/quotedblleft/hbar.fina/quotedblleft/hcircumflex.fina/quotedblleft/i.fina/quotedblleft/idotless.fina/quotedblleft/iacute.fina/quotedblleft/ibreve.fina/quotedblleft/icircumflex.fina/quotedblleft/idblgrave.fina/quotedblleft/idieresis.fina/quotedblleft/idotaccent.fina/quotedblleft/idotbelow.fina/quotedblleft/igrave.fina/quotedblleft/ihookabove.fina/quotedblleft/iinvertedbreve.fina/quotedblleft/i_j.loclNLD.fina/quotedblleft/imacron.fina/quotedblleft/iogonek.fina/quotedblleft/itilde.fina/quotedblleft/j.fina/quotedblleft/jdotless.fina/quotedblleft/jcircumflex.fina/quotedblleft/k.fina/quotedblleft/kcommaaccent.fina/quotedblleft/kgreenlandic.fina/quotedblleft/l.fina/quotedblleft/lacute.fina/quotedblleft/lcaron.fina/quotedblleft/lcommaaccent.fina/quotedblleft/ldot.fina/quotedblleft/lj.fina/quotedblleft/lslash.fina/quotedblleft/m.fina/quotedblleft/n.fina/quotedblleft/nacute.fina/quotedblleft/napostrophe.fina/quotedblleft/ncaron.fina/quotedblleft/ncommaaccent.fina/quotedblleft/eng.fina/quotedblleft/nj.fina/quotedblleft/ntilde.fina/quotedblleft/o.fina/quotedblleft/oacute.fina/quotedblleft/obreve.fina/quotedblleft/ocircumflex.fina/quotedblleft/ocircumflexacute.fina/quotedblleft/ocircumflexdotbelow.fina/quotedblleft/ocircumflexgrave.fina/quotedblleft/ocircumflexhookabove.fina/quotedblleft/ocircumflextilde.fina/quotedblleft/odblgrave.fina/quotedblleft/odieresis.fina/quotedblleft/odieresismacron.fina/quotedblleft/odotaccentmacron.fina/quotedblleft/odotbelow.fina/quotedblleft/ograve.fina/quotedblleft/ohookabove.fina/quotedblleft/ohorn.fina/quotedblleft/ohornacute.fina/quotedblleft/ohorndotbelow.fina/quotedblleft/ohorngrave.fina/quotedblleft/ohornhookabove.fina/quotedblleft/ohorntilde.fina/quotedblleft/ohungarumlaut.fina/quotedblleft/oinvertedbreve.fina/quotedblleft/omacron.fina/quotedblleft/oogonek.fina/quotedblleft/oslash.fina/quotedblleft/oslashacute.fina/quotedblleft/otilde.fina/quotedblleft/otildemacron.fina/quotedblleft/oe.fina/quotedblleft/p.fina/quotedblleft/thorn.fina/quotedblleft/q.fina/quotedblleft/r.fina/quotedblleft/racute.fina/quotedblleft/rcaron.fina/quotedblleft/rcommaaccent.fina/quotedblleft/rdblgrave.fina/quotedblleft/rinvertedbreve.fina/quotedblleft/s.fina/quotedblleft/sacute.fina/quotedblleft/scaron.fina/quotedblleft/scedilla.fina/quotedblleft/scircumflex.fina/quotedblleft/scommaaccent.fina/quotedblleft/germandbls.fina/quotedblleft/lj.ss01.fina/quotedblleft/eng.ss01.fina/quotedblleft/p.ss01.fina/quotedblleft/z.ss01.fina/quotedblleft/zacute.ss01.fina/quotedblleft/zcaron.ss01.fina/quotedblleft/zdotaccent.ss01.fina/quotedblleft/t.fina/quotedblleft/tbar.fina/quotedblleft/tcaron.fina/quotedblleft/tcedilla.fina/quotedblleft/tcommaaccent.fina/quotedblleft/u.fina/quotedblleft/uacute.fina/quotedblleft/ubreve.fina/quotedblleft/ucircumflex.fina/quotedblleft/udblgrave.fina/quotedblleft/udieresis.fina/quotedblleft/udotbelow.fina/quotedblleft/ugrave.fina/quotedblleft/uhorn.fina/quotedblleft/uhornacute.fina/quotedblleft/uhorndotbelow.fina/quotedblleft/uhorngrave.fina/quotedblleft/uhornhookabove.fina/quotedblleft/uhorntilde.fina/quotedblleft/uhungarumlaut.fina/quotedblleft/uinvertedbreve.fina/quotedblleft/umacron.fina/quotedblleft/uogonek.fina/quotedblleft/uring.fina/quotedblleft/utilde.fina/quotedblleft/v.fina/quotedblleft/w.fina/quotedblleft/wacute.fina/quotedblleft/wcircumflex.fina/quotedblleft/wdieresis.fina/quotedblleft/wgrave.fina/quotedblleft/x.fina/quotedblleft/y.fina/quotedblleft/yacute.fina/quotedblleft/ycircumflex.fina/quotedblleft/ydieresis.fina/quotedblleft/ydotbelow.fina/quotedblleft/ygrave.fina/quotedblleft/yhookabove.fina/quotedblleft/ymacron.fina/quotedblleft/ytilde.fina/quotedblleft/z.fina/quotedblleft/zacute.fina/quotedblleft/zcaron.fina/quotedblleft/zdotaccent.fina/quotedblleft/b.ss01/quotedblleft/d.ss01/quotedblleft/f.ss01/quotedblleft/l.ss01/quotedblleft/lacute.ss01/quotedblleft/lcommaaccent.ss01/quotedblleft/lj.ss01/quotedblleft/lslash.ss01/quotedblleft/eng.ss01/quotedblleft/o.ss01/quotedblleft/oacute.ss01/quotedblleft/obreve.ss01/quotedblleft/ocircumflex.ss01/quotedblleft/ocircumflexacute.ss01/quotedblleft/ocircumflexdotbelow.ss01/quotedblleft/ocircumflexgrave.ss01/quotedblleft/ocircumflexhookabove.ss01/quotedblleft/ocircumflextilde.ss01/quotedblleft/odblgrave.ss01/quotedblleft/odieresis.ss01/quotedblleft/odieresismacron.ss01/quotedblleft/odotaccentmacron.ss01/quotedblleft/odotbelow.ss01/quotedblleft/ograve.ss01/quotedblleft/ohookabove.ss01/quotedblleft/ohorn.ss01/quotedblleft/ohornacute.ss01/quotedblleft/ohorndotbelow.ss01/quotedblleft/ohorngrave.ss01/quotedblleft/ohornhookabove.ss01/quotedblleft/ohorntilde.ss01/quotedblleft/ohungarumlaut.ss01/quotedblleft/oinvertedbreve.ss01/quotedblleft/omacron.ss01/quotedblleft/oogonek.ss01/quotedblleft/oslash.ss01/quotedblleft/oslashacute.ss01/quotedblleft/otilde.ss01/quotedblleft/otildemacron.ss01/quotedblleft/p.ss01/quotedblleft/t.ss01/quotedblleft/tcedilla.ss01/quotedblleft/tcommaaccent.ss01/quotedblleft/z.ss01/quotedblleft/zacute.ss01/quotedblleft/zcaron.ss01/quotedblleft/zdotaccent.ss01/quotedblleft/f_f/quotedblleft/f_ij.loclNLD/quotedblleft/f_j/quotedblleft/fi/quotedblleft/fl/quotedblleft/lslash_lslash/quotedblleft/t_t/quotedblleft/f_ij.loclNLD.fina/quotedblleft/f_j.fina/quotedblleft/fi.fina/quotedblleft/fl.fina/quotedblleft/t_t.ss01.fina/quotedblleft/t_t.ss01/quotedblleft 0/quotedblleft 1/quotedblleft 2/quotedblleft 3/quotedblleft 4/quotedblleft 5/quotedblleft 6/quotedblleft 7/quotedblleft 8/quotedblleft 9/quotedblleft \012",
 "Facebook\012Terminator with a vengeance this is it \012lambda alpha pi a. js os rs vs o/tbar  \012/aogonek p \U00E7p /eogonek p /iogonek p /uogonek p qs qj ox rx vx rt oz rz vz Vt "
 );
 classes = (
@@ -20077,7 +20076,7 @@ unicode = 1EB1;
 {
 color = 4;
 glyphname = abrevehookabove;
-lastChange = "2016-08-03 22:51:12 +0000";
+lastChange = "2016-08-05 10:40:25 +0000";
 layers = (
 {
 components = (
@@ -20196,7 +20195,7 @@ unicode = 1EAD;
 {
 color = 4;
 glyphname = acircumflexgrave;
-lastChange = "2016-08-05 10:27:22 +0000";
+lastChange = "2016-08-05 10:40:30 +0000";
 layers = (
 {
 components = (
@@ -21785,7 +21784,7 @@ unicode = 010F;
 {
 color = 4;
 glyphname = dcroat;
-lastChange = "2016-08-03 22:48:50 +0000";
+lastChange = "2016-08-05 10:42:03 +0000";
 layers = (
 {
 background = {
@@ -22270,7 +22269,7 @@ unicode = 1EC7;
 {
 color = 4;
 glyphname = ecircumflexgrave;
-lastChange = "2016-08-05 10:27:22 +0000";
+lastChange = "2016-08-05 10:40:13 +0000";
 layers = (
 {
 components = (
@@ -24079,7 +24078,7 @@ unicode = 1EC9;
 {
 color = 4;
 glyphname = iinvertedbreve;
-lastChange = "2016-08-03 22:51:12 +0000";
+lastChange = "2016-08-05 10:42:11 +0000";
 layers = (
 {
 components = (
@@ -24310,7 +24309,7 @@ unicode = 012F;
 {
 color = 4;
 glyphname = itilde;
-lastChange = "2016-08-03 22:51:12 +0000";
+lastChange = "2016-08-05 10:42:22 +0000";
 layers = (
 {
 components = (
@@ -26395,7 +26394,7 @@ unicode = 1ED9;
 {
 color = 4;
 glyphname = ocircumflexgrave;
-lastChange = "2016-08-05 10:27:22 +0000";
+lastChange = "2016-08-05 10:40:17 +0000";
 layers = (
 {
 components = (
@@ -26418,7 +26417,7 @@ unicode = 1ED3;
 {
 color = 4;
 glyphname = ocircumflexhookabove;
-lastChange = "2016-08-05 10:27:22 +0000";
+lastChange = "2016-08-05 10:42:14 +0000";
 layers = (
 {
 components = (
@@ -50595,7 +50594,7 @@ rightMetricsKey = n;
 {
 color = 3;
 glyphname = ordfeminine;
-lastChange = "2016-08-03 19:57:00 +0000";
+lastChange = "2016-08-05 10:40:49 +0000";
 layers = (
 {
 background = {
@@ -54373,7 +54372,7 @@ unicode = 00BE;
 {
 color = 3;
 glyphname = asterisk;
-lastChange = "2016-08-05 10:34:05 +0000";
+lastChange = "2016-08-05 10:39:25 +0000";
 layers = (
 {
 background = {
@@ -58102,7 +58101,7 @@ unicode = 201E;
 {
 color = 3;
 glyphname = quotedblleft;
-lastChange = "2016-08-03 22:51:12 +0000";
+lastChange = "2016-08-05 10:40:43 +0000";
 layers = (
 {
 background = {
@@ -58531,54 +58530,60 @@ unicode = 201A;
 },
 {
 glyphname = space;
-lastChange = "2016-07-30 23:12:59 +0000";
+lastChange = "2016-08-05 10:41:31 +0000";
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
 width = 265;
 }
 );
-leftKerningGroup = O;
+leftKerningGroup = space;
 note = space;
-rightKerningGroup = O;
+rightKerningGroup = space;
 unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2016-07-30 23:12:59 +0000";
+lastChange = "2016-08-05 10:41:31 +0000";
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
 width = 265;
 }
 );
+leftKerningGroup = space;
 widthMetricsKey = space;
+rightKerningGroup = space;
 unicode = 00A0;
 },
 {
 glyphname = CR;
-lastChange = "2016-08-01 11:09:53 +0000";
+lastChange = "2016-08-05 10:41:31 +0000";
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
 width = 265;
 }
 );
+leftKerningGroup = space;
 widthMetricsKey = space;
 note = uni000D;
+rightKerningGroup = space;
 unicode = 000D;
 },
 {
 glyphname = .notdef;
-lastChange = "2016-08-05 10:27:22 +0000";
+lastChange = "2016-08-05 10:41:31 +0000";
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
 width = 265;
 }
 );
+leftKerningGroup = space;
 widthMetricsKey = space;
 note = .notdef;
+rightKerningGroup = space;
 },
 {
 color = 3;
@@ -72558,9 +72563,9 @@ parenright = 130;
 "@MMK_R_v" = -70;
 "@MMK_R_x" = -20;
 abrevegrave = 115;
-abrevehookabove = 35;
+abrevehookabove = 65;
 abrevetilde = 105;
-acircumflexgrave = 245;
+acircumflexgrave = 205;
 acircumflextilde = 85;
 ahookabove = 35;
 ocircumflexgrave = 290;
@@ -72812,7 +72817,7 @@ parenright = 60;
 "@MMK_R_quoteleft" = 80;
 "@MMK_R_slash" = 140;
 "@MMK_R_t" = 0;
-asterisk = 160;
+asterisk = 10;
 parenright = 130;
 };
 "@MMK_L_L_ss01" = {
@@ -73116,9 +73121,9 @@ parenright = 50;
 "@MMK_R_s" = 20;
 "@MMK_R_slash" = 60;
 "@MMK_R_t" = 20;
-acircumflexgrave = 30;
-ecircumflexgrave = 70;
-ocircumflexgrave = 70;
+acircumflexgrave = -10;
+ecircumflexgrave = 30;
+ocircumflexgrave = 30;
 };
 "@MMK_L_V_ss01" = {
 "@MMK_R_E_ss01" = -10;
@@ -73171,9 +73176,9 @@ ocircumflexgrave = 80;
 "@MMK_R_t" = -20;
 "@MMK_R_v" = -20;
 "@MMK_R_z" = -20;
-acircumflexgrave = 70;
-ecircumflexgrave = 110;
-ocircumflexgrave = 120;
+acircumflexgrave = 40;
+ecircumflexgrave = 70;
+ocircumflexgrave = 70;
 parenright = 130;
 };
 "@MMK_L_X_ss01" = {
@@ -74249,8 +74254,8 @@ dcaron.fina = {
 parenright = 140;
 };
 dcroat = {
-"@MMK_R_asterisk" = 10;
-"@MMK_R_quoteleft" = 20;
+"@MMK_R_asterisk" = 30;
+"@MMK_R_quoteleft" = 30;
 };
 dcroat.fina = {
 "@MMK_R_asterisk" = 30;
@@ -74317,7 +74322,7 @@ iacute.fina = {
 "@MMK_R_quoteleft" = 40;
 };
 ibreve = {
-"@MMK_R_asterisk" = 50;
+"@MMK_R_asterisk" = 120;
 "@MMK_R_quoteleft" = 60;
 };
 ibreve.fina = {
@@ -74331,8 +74336,8 @@ icircumflex.fina = {
 "@MMK_R_quoteleft" = 20;
 };
 idieresis = {
-"@MMK_R_asterisk" = 30;
-"@MMK_R_quoteleft" = 20;
+"@MMK_R_asterisk" = 110;
+"@MMK_R_quoteleft" = 70;
 };
 idieresis.fina = {
 "@MMK_R_asterisk" = 50;
@@ -74348,8 +74353,8 @@ ihookabove.fina = {
 "@MMK_R_quoteleft" = 30;
 };
 iinvertedbreve = {
-"@MMK_R_asterisk" = 40;
-"@MMK_R_quoteleft" = 40;
+"@MMK_R_asterisk" = 100;
+"@MMK_R_quoteleft" = 80;
 };
 iinvertedbreve.fina = {
 "@MMK_R_asterisk" = 70;
@@ -74362,8 +74367,8 @@ imacron.fina = {
 "@MMK_R_quoteleft" = 20;
 };
 itilde = {
-"@MMK_R_asterisk" = 60;
-"@MMK_R_quoteleft" = 70;
+"@MMK_R_asterisk" = 110;
+"@MMK_R_quoteleft" = 110;
 };
 itilde.fina = {
 "@MMK_R_asterisk" = 90;
@@ -74431,7 +74436,7 @@ ocircumflexacute.ss01 = {
 "@MMK_R_quoteleft" = 20;
 };
 ocircumflexhookabove = {
-"@MMK_R_asterisk" = 20;
+"@MMK_R_asterisk" = 70;
 "@MMK_R_quoteleft" = 30;
 parenright = 80;
 };
