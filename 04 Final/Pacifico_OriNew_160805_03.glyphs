@@ -180,6 +180,14 @@ value = "http://scripts.sil.org/OFL";
 {
 name = vendorID;
 value = newt;
+},
+{
+name = fsType;
+value = "New Parameter";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-08-03 21:19:44 +0000";
