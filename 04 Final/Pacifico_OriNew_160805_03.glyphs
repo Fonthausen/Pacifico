@@ -72337,6 +72337,40 @@ width = 600;
 disablesNiceNames = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 930;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1478;
+},
+{
+name = winDescent;
+value = 457;
+},
+{
+name = hheaAscender;
+value = 930;
+},
+{
+name = hheaDescender;
+value = -450;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -450;
+}
+);
 instanceInterpolations = {
 "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3" = 1;
 };
