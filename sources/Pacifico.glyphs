@@ -1,8 +1,5 @@
 {
 .appVersion = "919";
-DisplayStrings = (
-"Facebook\012Terminator with a vengeance this is it \012lambda alpha pi a. js os rs vs o/tbar  \012/aogonek p \U00E7p /eogonek p /iogonek p /uogonek p qs qj ox rx vx rt oz rz vz Vt "
-);
 classes = (
 {
 code = "zero one two three four five six seven eight nine";
@@ -190,7 +187,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2016-08-03 21:19:44 +0000";
+date = "2011-03-09 22:19:44 +0000";
 designer = "Vernon Adams";
 designerURL = "http://newtypography.co.uk";
 familyName = Pacifico;
@@ -278,6 +275,40 @@ alignmentZones = (
 );
 ascender = 930;
 capHeight = 840;
+customParameters = (
+{
+name = typoAscender;
+value = 930;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1478;
+},
+{
+name = winDescent;
+value = 457;
+},
+{
+name = hheaAscender;
+value = 930;
+},
+{
+name = hheaDescender;
+value = -450;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -450;
+}
+);
 descender = -450;
 guideLines = (
 {
@@ -72349,38 +72380,6 @@ disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
-{
-name = typoAscender;
-value = 930;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1478;
-},
-{
-name = winDescent;
-value = 457;
-},
-{
-name = hheaAscender;
-value = 930;
-},
-{
-name = hheaDescender;
-value = -450;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = typoDescender;
-value = -450;
-},
 {
 name = postscriptFullName;
 value = "Pacifico Regular";
