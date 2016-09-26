@@ -160,12 +160,8 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = AllLetters;
 }
 );
-copyright = "Copyright (c) 2011 The Pacifico Project Authors";
+copyright = "Copyright 2011 The Pacifico Project Authors";
 customParameters = (
-{
-name = description;
-value = "Copyright (c) 2011 by vernon adams. All rights reserved.";
-},
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
@@ -64128,18 +64124,6 @@ width = 700;
 }
 );
 unicode = 25CA;
-},
-{
-color = 0;
-glyphname = apple;
-lastChange = "2016-08-01 22:54:32 +0000";
-layers = (
-{
-layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
-width = 600;
-}
-);
-unicode = F8FF;
 },
 {
 color = 3;
