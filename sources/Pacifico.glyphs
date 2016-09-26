@@ -1,5 +1,5 @@
 {
-.appVersion = "911";
+.appVersion = "919";
 DisplayStrings = (
 "Facebook\012Terminator with a vengeance this is it \012lambda alpha pi a. js os rs vs o/tbar  \012/aogonek p \U00E7p /eogonek p /iogonek p /uogonek p qs qj ox rx vx rt oz rz vz Vt "
 );
@@ -163,7 +163,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = AllLetters;
 }
 );
-copyright = "Copyright (c) 2011 by Vernon Adams. All rights reserved.";
+copyright = "Copyright (c) 2011 The Pacifico Project Authors";
 customParameters = (
 {
 name = description;
@@ -171,7 +171,7 @@ value = "Copyright (c) 2011 by vernon adams. All rights reserved.";
 },
 {
 name = license;
-value = "SIL Open Font License, Version 1.1\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
@@ -183,7 +183,7 @@ value = newt;
 },
 {
 name = fsType;
-value = "New Parameter";
+value = 0;
 },
 {
 name = "Use Typo Metrics";
@@ -192,7 +192,8 @@ value = 1;
 );
 date = "2016-08-03 21:19:44 +0000";
 designer = "Vernon Adams";
-familyName = PacificoNew;
+designerURL = "http://newtypography.co.uk";
+familyName = Pacifico;
 featurePrefixes = (
 {
 automatic = 1;
@@ -22718,6 +22719,106 @@ unicode = 1EBD;
 },
 {
 color = 4;
+glyphname = schwa;
+lastChange = "2016-08-03 21:43:41 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"367 -5 OFFCURVE",
+"442 102 OFFCURVE",
+"442 241 CURVE SMOOTH",
+"442 380 OFFCURVE",
+"374 467 OFFCURVE",
+"233 467 CURVE SMOOTH",
+"176 467 OFFCURVE",
+"125 455 OFFCURVE",
+"82 437 CURVE",
+"100 332 LINE",
+"134 347 OFFCURVE",
+"179 356 OFFCURVE",
+"213 356 CURVE SMOOTH",
+"281 356 OFFCURVE",
+"319 322 OFFCURVE",
+"319 237 CURVE SMOOTH",
+"319 132 OFFCURVE",
+"283 88 OFFCURVE",
+"228 88 CURVE SMOOTH",
+"187 88 OFFCURVE",
+"141 117 OFFCURVE",
+"171 216 CURVE",
+"111 173 LINE",
+"381 173 LINE",
+"386 253 LINE",
+"124 253 LINE SMOOTH",
+"72 253 OFFCURVE",
+"51 224 OFFCURVE",
+"47 193 CURVE SMOOTH",
+"32 92 OFFCURVE",
+"88 -5 OFFCURVE",
+"228 -5 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
+paths = (
+{
+closed = 1;
+nodes = (
+"362 -5 OFFCURVE",
+"437 102 OFFCURVE",
+"437 241 CURVE SMOOTH",
+"437 380 OFFCURVE",
+"369 467 OFFCURVE",
+"228 467 CURVE SMOOTH",
+"171 467 OFFCURVE",
+"120 454 OFFCURVE",
+"94 439 CURVE SMOOTH",
+"67 423 OFFCURVE",
+"60 399 OFFCURVE",
+"60 375 CURVE SMOOTH",
+"60 348 OFFCURVE",
+"76 326 OFFCURVE",
+"112 339 CURVE SMOOTH",
+"137 348 OFFCURVE",
+"174 356 OFFCURVE",
+"208 356 CURVE SMOOTH",
+"276 356 OFFCURVE",
+"314 322 OFFCURVE",
+"314 237 CURVE SMOOTH",
+"314 132 OFFCURVE",
+"278 88 OFFCURVE",
+"223 88 CURVE SMOOTH",
+"182 88 OFFCURVE",
+"136 117 OFFCURVE",
+"166 216 CURVE",
+"106 173 LINE",
+"376 173 LINE",
+"381 253 LINE",
+"119 253 LINE SMOOTH",
+"67 253 OFFCURVE",
+"46 224 OFFCURVE",
+"42 193 CURVE SMOOTH",
+"27 92 OFFCURVE",
+"83 -5 OFFCURVE",
+"223 -5 CURVE SMOOTH"
+);
+}
+);
+width = 458;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o_fina;
+rightMetricsKey = o.fina;
+unicode = 0259;
+},
+{
+color = 4;
 glyphname = f;
 lastChange = "2016-08-03 20:06:13 +0000";
 layers = (
@@ -28982,106 +29083,6 @@ leftKerningGroup = germandbls;
 note = germandbls;
 rightKerningGroup = germandbls;
 unicode = 00DF;
-},
-{
-color = 4;
-glyphname = schwa;
-lastChange = "2016-08-03 21:43:41 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"367 -5 OFFCURVE",
-"442 102 OFFCURVE",
-"442 241 CURVE SMOOTH",
-"442 380 OFFCURVE",
-"374 467 OFFCURVE",
-"233 467 CURVE SMOOTH",
-"176 467 OFFCURVE",
-"125 455 OFFCURVE",
-"82 437 CURVE",
-"100 332 LINE",
-"134 347 OFFCURVE",
-"179 356 OFFCURVE",
-"213 356 CURVE SMOOTH",
-"281 356 OFFCURVE",
-"319 322 OFFCURVE",
-"319 237 CURVE SMOOTH",
-"319 132 OFFCURVE",
-"283 88 OFFCURVE",
-"228 88 CURVE SMOOTH",
-"187 88 OFFCURVE",
-"141 117 OFFCURVE",
-"171 216 CURVE",
-"111 173 LINE",
-"381 173 LINE",
-"386 253 LINE",
-"124 253 LINE SMOOTH",
-"72 253 OFFCURVE",
-"51 224 OFFCURVE",
-"47 193 CURVE SMOOTH",
-"32 92 OFFCURVE",
-"88 -5 OFFCURVE",
-"228 -5 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
-paths = (
-{
-closed = 1;
-nodes = (
-"362 -5 OFFCURVE",
-"437 102 OFFCURVE",
-"437 241 CURVE SMOOTH",
-"437 380 OFFCURVE",
-"369 467 OFFCURVE",
-"228 467 CURVE SMOOTH",
-"171 467 OFFCURVE",
-"120 454 OFFCURVE",
-"94 439 CURVE SMOOTH",
-"67 423 OFFCURVE",
-"60 399 OFFCURVE",
-"60 375 CURVE SMOOTH",
-"60 348 OFFCURVE",
-"76 326 OFFCURVE",
-"112 339 CURVE SMOOTH",
-"137 348 OFFCURVE",
-"174 356 OFFCURVE",
-"208 356 CURVE SMOOTH",
-"276 356 OFFCURVE",
-"314 322 OFFCURVE",
-"314 237 CURVE SMOOTH",
-"314 132 OFFCURVE",
-"278 88 OFFCURVE",
-"223 88 CURVE SMOOTH",
-"182 88 OFFCURVE",
-"136 117 OFFCURVE",
-"166 216 CURVE",
-"106 173 LINE",
-"376 173 LINE",
-"381 253 LINE",
-"119 253 LINE SMOOTH",
-"67 253 OFFCURVE",
-"46 224 OFFCURVE",
-"42 193 CURVE SMOOTH",
-"27 92 OFFCURVE",
-"83 -5 OFFCURVE",
-"223 -5 CURVE SMOOTH"
-);
-}
-);
-width = 458;
-}
-);
-leftKerningGroup = o;
-rightKerningGroup = o_fina;
-rightMetricsKey = o.fina;
-unicode = 0259;
 },
 {
 color = 4;
@@ -72332,6 +72333,16 @@ nodes = (
 width = 600;
 }
 );
+},
+{
+glyphname = NULL;
+lastChange = "2016-09-26 13:09:18 +0000";
+layers = (
+{
+layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
+width = 0;
+}
+);
 }
 );
 disablesNiceNames = 1;
@@ -72369,6 +72380,14 @@ value = 0;
 {
 name = typoDescender;
 value = -450;
+},
+{
+name = postscriptFullName;
+value = "Pacifico Regular";
+},
+{
+name = compatibleFullName;
+value = "Pacifico Regular";
 }
 );
 instanceInterpolations = {
@@ -74609,7 +74628,8 @@ parenright = 10;
 };
 };
 manufacturer = "Vernon Adams";
+manufacturerURL = "http://newtypography.co.uk";
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 1;
+versionMajor = 2;
+versionMinor = 0;
 }
