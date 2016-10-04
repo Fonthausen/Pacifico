@@ -176,7 +176,8 @@ value = newt;
 },
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = "Use Typo Metrics";
@@ -185,7 +186,7 @@ value = 1;
 );
 date = "2011-03-09 22:19:44 +0000";
 designer = "Vernon Adams";
-designerURL = "http://newtypography.co.uk";
+designerURL = "http://www.newtypography.co.uk";
 familyName = Pacifico;
 featurePrefixes = (
 {
@@ -72351,28 +72352,19 @@ width = 600;
 },
 {
 glyphname = NULL;
-lastChange = "2016-09-26 13:09:18 +0000";
+lastChange = "2016-10-04 16:08:58 +0000";
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesNiceNames = 1;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Pacifico Regular";
-},
-{
-name = compatibleFullName;
-value = "Pacifico Regular";
-}
-);
 instanceInterpolations = {
 "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3" = 1;
 };
@@ -72424,6 +72416,7 @@ parenright = 80;
 };
 "@MMK_L_A_ss01" = {
 "@MMK_R_J_ss01" = -10;
+"@MMK_R_T_ss01" = 20;
 "@MMK_R_V" = -5;
 "@MMK_R_X_ss01" = -5;
 "@MMK_R_a" = -30;
@@ -72450,9 +72443,9 @@ parenright = 80;
 acircumflexgrave = 60;
 ecircumflexgrave = 110;
 ocircumflexgrave = 110;
-"@MMK_R_T_ss01" = 20;
 };
 "@MMK_L_B" = {
+"@MMK_R_J" = 10;
 "@MMK_R_a" = -40;
 "@MMK_R_asterisk" = 20;
 "@MMK_R_degree" = 30;
@@ -72467,7 +72460,6 @@ ocircumflexgrave = 110;
 "@MMK_R_v" = -20;
 "@MMK_R_x" = -40;
 "@MMK_R_z" = -26;
-"@MMK_R_J" = 10;
 };
 "@MMK_L_B_ss01" = {
 "@MMK_R_E_ss01" = -5;
@@ -72623,6 +72615,7 @@ parenright = 180;
 };
 "@MMK_L_F_ss01" = {
 "@MMK_R_E_ss01" = -20;
+"@MMK_R_H_ss01" = 10;
 "@MMK_R_J_ss01" = -20;
 "@MMK_R_O" = -30;
 "@MMK_R_S" = -20;
@@ -72656,20 +72649,19 @@ parenright = 180;
 "@MMK_R_v" = -70;
 "@MMK_R_x" = -110;
 "@MMK_R_z" = -70;
+abrevetilde = -50;
 acircumflexgrave = 50;
 ecircumflexgrave = 140;
-ocircumflexgrave = 100;
-parenright = 20;
-"@MMK_R_H_ss01" = 10;
+ecircumflextilde = -30;
+ehookabove = -70;
 idblgrave = 40;
 igrave = -10;
 ihookabove = 20;
-abrevetilde = -50;
-ecircumflextilde = -30;
-ehookabove = -70;
+ocircumflexgrave = 100;
 ocircumflextilde = -20;
 ohookabove = -70;
 ohornhookabove = -70;
+parenright = 20;
 };
 "@MMK_L_G_ss01" = {
 "@MMK_R_J_ss01" = -25;
@@ -72968,6 +72960,7 @@ parenright = 130;
 };
 "@MMK_L_P_ss01" = {
 "@MMK_R_J_ss01" = -10;
+"@MMK_R_O" = 10;
 "@MMK_R_S" = -5;
 "@MMK_R_T_ss01" = -75;
 "@MMK_R_X_ss01" = -55;
@@ -72993,7 +72986,6 @@ parenright = 130;
 "@MMK_R_v" = -25;
 "@MMK_R_x" = -60;
 "@MMK_R_z" = -50;
-"@MMK_R_O" = 10;
 };
 "@MMK_L_R" = {
 "@MMK_R_a" = -20;
@@ -73095,6 +73087,7 @@ parenright = 150;
 };
 "@MMK_L_T_ss01" = {
 "@MMK_R_E_ss01" = -10;
+"@MMK_R_H_ss01" = 50;
 "@MMK_R_J_ss01" = 20;
 "@MMK_R_O" = -15;
 "@MMK_R_T_ss01" = 70;
@@ -73125,28 +73118,27 @@ parenright = 150;
 "@MMK_R_v" = -80;
 "@MMK_R_x" = -100;
 "@MMK_R_z" = -80;
+abrevegrave = -40;
+abrevehookabove = -80;
+abrevetilde = -10;
 acircumflexgrave = 120;
+acircumflextilde = -20;
 ecircumflexgrave = 160;
-ocircumflexgrave = 160;
-parenright = 50;
-"@MMK_R_H_ss01" = 50;
+ecircumflextilde = -20;
+ehookabove = -50;
 iacute = -50;
 icircumflex = -10;
 idblgrave = 60;
 igrave = 20;
 ihookabove = 70;
-acircumflextilde = -20;
-abrevetilde = -10;
-abrevehookabove = -80;
-abrevegrave = -40;
-ecircumflextilde = -20;
-ehookabove = -50;
+ocircumflexgrave = 160;
 ocircumflextilde = -20;
 odieresismacron = 10;
 odotaccentmacron = 10;
 ohookabove = -30;
 ohornhookabove = -30;
 otildemacron = 10;
+parenright = 50;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_a" = -60;
@@ -73235,12 +73227,12 @@ ocircumflexgrave = 30;
 "@MMK_R_z" = -70;
 acircumflexgrave = 40;
 ecircumflexgrave = 80;
-ocircumflexgrave = 80;
 icircumflex = 20;
 idblgrave = 10;
 idieresis = -40;
 igrave = -40;
 ihookabove = -50;
+ocircumflexgrave = 80;
 };
 "@MMK_L_X" = {
 "@MMK_R_a" = -10;
@@ -73580,6 +73572,7 @@ zero = -10;
 "@MMK_R_f" = -10;
 "@MMK_R_guilsinglright" = 130;
 "@MMK_R_hyphen" = 50;
+"@MMK_R_l" = 0;
 "@MMK_R_p" = 20;
 "@MMK_R_period" = 140;
 "@MMK_R_question" = 120;
@@ -73589,7 +73582,6 @@ zero = -10;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = -10;
 parenright = 140;
-"@MMK_R_l" = 0;
 };
 "@MMK_L_eth" = {
 "@MMK_R_braceright" = 40;
@@ -73668,7 +73660,8 @@ periodcentered = -20;
 "@MMK_R_v" = -20;
 "@MMK_R_x" = -40;
 "@MMK_R_z" = -50;
-parenright = 90;
+acircumflexgrave = 35;
+adblgrave = 25;
 ibreve = 30;
 icircumflex = 20;
 idblgrave = 70;
@@ -73676,8 +73669,7 @@ idieresis = 20;
 igrave = 40;
 ihookabove = 30;
 itilde = 20;
-acircumflexgrave = 35;
-adblgrave = 25;
+parenright = 90;
 };
 "@MMK_L_germandbls" = {
 "@MMK_R_asterisk" = -20;
@@ -73776,6 +73768,7 @@ zero = 10;
 "@MMK_R_f" = -20;
 "@MMK_R_guilsinglright" = 130;
 "@MMK_R_hyphen" = 50;
+"@MMK_R_j" = 20;
 "@MMK_R_n" = -11;
 "@MMK_R_p" = 10;
 "@MMK_R_period" = 110;
@@ -73787,7 +73780,6 @@ zero = 10;
 "@MMK_R_x" = -15;
 "@MMK_R_z" = -30;
 parenright = 100;
-"@MMK_R_j" = 20;
 };
 "@MMK_L_j_fina" = {
 "@MMK_R_p" = 10;
@@ -73827,13 +73819,12 @@ parenright = 110;
 "@MMK_R_exclam" = 140;
 "@MMK_R_guilsinglright" = 130;
 "@MMK_R_hyphen" = 50;
+"@MMK_R_l" = 0;
+"@MMK_R_o" = 0;
 "@MMK_R_period" = 140;
 "@MMK_R_question" = 120;
 "@MMK_R_quoteleft" = 60;
 "@MMK_R_slash" = 140;
-parenright = 140;
-"@MMK_R_l" = 0;
-"@MMK_R_o" = 0;
 ecircumflexgrave = 0;
 ibreve = 60;
 icircumflex = 50;
@@ -73851,6 +73842,7 @@ j = 30;
 jcircumflex = 20;
 ocircumflexgrave = 50;
 odblgrave = 40;
+parenright = 140;
 };
 "@MMK_L_l_fina" = {
 "@MMK_R_asterisk" = 30;
@@ -73879,11 +73871,11 @@ parenright = 110;
 "@MMK_R_question" = 120;
 "@MMK_R_quoteleft" = 0;
 "@MMK_R_slash" = 140;
+"@MMK_R_space" = 0;
 "@MMK_R_thorn" = 50;
 "@MMK_R_v" = 10;
 "@MMK_R_z" = -20;
 parenright = 140;
-"@MMK_R_space" = 0;
 };
 "@MMK_L_n_fina" = {
 "@MMK_R_asterisk" = -30;
@@ -74002,6 +73994,7 @@ zero = -10;
 "@MMK_R_exclam" = 140;
 "@MMK_R_guilsinglright" = 120;
 "@MMK_R_hyphen" = 30;
+"@MMK_R_j" = 170;
 "@MMK_R_p" = 130;
 "@MMK_R_period" = 150;
 "@MMK_R_question" = 120;
@@ -74009,7 +74002,6 @@ zero = -10;
 "@MMK_R_slash" = 160;
 "@MMK_R_z" = -10;
 parenright = 140;
-"@MMK_R_j" = 170;
 };
 "@MMK_L_question" = {
 "@MMK_R_asterisk" = 10;
@@ -74154,8 +74146,8 @@ zero = -30;
 "@MMK_R_slash" = 110;
 "@MMK_R_t" = 30;
 "@MMK_R_v" = 40;
-"@MMK_R_z" = 70;
 "@MMK_R_x" = 60;
+"@MMK_R_z" = 70;
 };
 "@MMK_L_r_fina" = {
 "@MMK_R_asterisk" = -30;
@@ -74248,9 +74240,9 @@ zero = -135;
 "@MMK_R_question" = 120;
 "@MMK_R_quoteleft" = 0;
 "@MMK_R_slash" = 140;
+"@MMK_R_t" = -40;
 "@MMK_R_v" = 30;
 parenright = 140;
-"@MMK_R_t" = -40;
 };
 "@MMK_L_v_fina" = {
 "@MMK_R_braceright" = 30;
@@ -74269,13 +74261,13 @@ parenright = 140;
 "@MMK_R_exclam" = 140;
 "@MMK_R_guilsinglright" = 130;
 "@MMK_R_hyphen" = 50;
+"@MMK_R_p" = 10;
 "@MMK_R_period" = 140;
 "@MMK_R_question" = 120;
 "@MMK_R_slash" = 130;
 "@MMK_R_v" = 29;
 "@MMK_R_z_fina" = -30;
 parenright = 140;
-"@MMK_R_p" = 10;
 };
 "@MMK_L_z_fina" = {
 "@MMK_R_braceright" = 90;
@@ -74325,12 +74317,12 @@ parenright = 120;
 };
 acircumflexhookabove = {
 "@MMK_R_asterisk" = 60;
-"@MMK_R_quoteleft" = 60;
-"@MMK_R_l" = 0;
-l = 60;
 "@MMK_R_h" = 0;
-k = 50;
+"@MMK_R_l" = 0;
+"@MMK_R_quoteleft" = 60;
 h = 50;
+k = 50;
+l = 60;
 };
 acircumflexhookabove.fina = {
 "@MMK_R_asterisk" = 60;
@@ -74344,8 +74336,8 @@ acircumflextilde.fina = {
 };
 aringacute = {
 "@MMK_R_asterisk" = 70;
-"@MMK_R_quoteleft" = 50;
 "@MMK_R_l" = 0;
+"@MMK_R_quoteleft" = 50;
 l = 40;
 };
 aringacute.fina = {
@@ -74402,8 +74394,8 @@ ecircumflexacute.fina = {
 ecircumflexhookabove = {
 "@MMK_R_asterisk" = 90;
 "@MMK_R_braceright" = 160;
-"@MMK_R_quoteleft" = 90;
 "@MMK_R_l" = 60;
+"@MMK_R_quoteleft" = 90;
 };
 ecircumflexhookabove.fina = {
 "@MMK_R_asterisk" = 60;
@@ -74506,6 +74498,9 @@ jcircumflex = {
 jcircumflex.fina = {
 "@MMK_R_question" = 40;
 "@MMK_R_quoteleft" = 10;
+};
+l = {
+ecircumflexgrave = 60;
 };
 lcaron = {
 "@MMK_R_asterisk" = 90;
@@ -74688,13 +74683,10 @@ zero = {
 "@MMK_R_quotesingl" = -30;
 parenright = 10;
 };
-l = {
-ecircumflexgrave = 60;
-};
 };
 };
 manufacturer = "Vernon Adams";
-manufacturerURL = "http://newtypography.co.uk";
+manufacturerURL = "http://www.newtypography.co.uk";
 unitsPerEm = 1000;
 versionMajor = 2;
 versionMinor = 0;
