@@ -304,11 +304,15 @@ value = 50;
 },
 {
 name = winAscent;
-value = 1303;
+value = 1478;
 },
 {
 name = winDescent;
-value = 453;
+value = 457;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -450;
