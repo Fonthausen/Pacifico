@@ -1,5 +1,5 @@
 {
-.appVersion = "924";
+.appVersion = "926";
 classes = (
 {
 code = "zero one two three four five six seven eight nine";
@@ -187,6 +187,7 @@ value = 1;
 date = "2011-03-09 22:19:44 +0000";
 designer = "Vernon Adams";
 designerURL = "http://www.newtypography.co.uk";
+disablesNiceNames = 1;
 familyName = Pacifico;
 featurePrefixes = (
 {
@@ -274,36 +275,40 @@ ascender = 930;
 capHeight = 840;
 customParameters = (
 {
+name = hheaAscender;
+value = 1303;
+},
+{
+name = hheaDescender;
+value = -453;
+},
+{
 name = typoAscender;
-value = 930;
+value = 1303;
+},
+{
+name = typoDescender;
+value = -453;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
+name = underlinePosition;
+value = -100;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
 name = winAscent;
-value = 1478;
+value = 1303;
 },
 {
 name = winDescent;
-value = 457;
-},
-{
-name = hheaAscender;
-value = 930;
-},
-{
-name = hheaDescender;
-value = -450;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = typoDescender;
-value = -450;
+value = 453;
 }
 );
 descender = -450;
@@ -72362,7 +72367,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 instanceInterpolations = {
